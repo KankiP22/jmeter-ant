@@ -3,8 +3,8 @@
 A Simple Ant project for JMeter Performance Test
 
 # Pre-Requisite
-* Java 1.7 or above
-* JMeter 3.1 or above
+* Java 1.8 or above
+* JMeter  5.5 or above
 * JMETER_HOME variable is set
 
 
